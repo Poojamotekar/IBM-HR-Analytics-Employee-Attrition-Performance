@@ -26,8 +26,8 @@
  
  As we could see the distribution of our target variable is **imbalanced** for the binary variable yes and no.
 
-#### Distribution of Numerical Features
-Documents/IronHack/Mid-Project/code/cate_dist.png
+#### Distribution of Numerical Features 
+
 This is the distribution of our numerical features. We have preprocessed all the numerical features so there are no missing data or duplicate data. 
 From the exproratory, it looks like exit employee's **age** and **working time with his current position** give out some signals of attrition as well as **dailyrate** which refers to paystub.
 
