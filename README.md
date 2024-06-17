@@ -1,4 +1,8 @@
-# IBM-HR-employee-Attrition-Prediction-Study
+# IBM-HR-employee-Attrition-Prediction-
+![image](https://github.com/Poojamotekar/IBM-HR-Analytics-Employee-Attrition-Performance/assets/66488693/2c27241e-dbb0-4c00-ad66-3a3eecf66c67)
+
+![image](https://github.com/Poojamotekar/IBM-HR-Analytics-Employee-Attrition-Performance/assets/66488693/770b5b07-abfc-4ce8-9b85-36497106f2d3)
+
 ## Dataset source
 - https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset
 
@@ -27,11 +31,13 @@
  As we could see the distribution of our target variable is **imbalanced** for the binary variable yes and no.
 
 #### Distribution of Numerical Features 
+![image](https://github.com/Poojamotekar/IBM-HR-Analytics-Employee-Attrition-Performance/assets/66488693/504cd43c-51ea-4711-9be7-58fe1fee627d)
 
 This is the distribution of our numerical features. We have preprocessed all the numerical features so there are no missing data or duplicate data. 
 From the exproratory, it looks like exit employee's **age** and **working time with his current position** give out some signals of attrition as well as **dailyrate** which refers to paystub.
 
 #### Distribution of Non Numerical Features
+![image](https://github.com/Poojamotekar/IBM-HR-Analytics-Employee-Attrition-Performance/assets/66488693/9cfd0876-1c58-44e0-881b-1fadb175deee)
 
 This is the distribution of non numerical features. Even though all the distribution is imbalanced, we could still tell that too much **over time** work definitely will drive away a loyal employee. **Traveling** and **martial status** will also be considered as factors of the effect.
 
@@ -49,7 +55,11 @@ From this matrix we could be able to see correlations between each feature and b
 ## Model Evaluation
 
 *There are different metrics to evalutate a model's performance. For classification problem, which is what we tried to solve in this project, accuracy is one of the metric that we will look at. Beside accuracy, precision and recall is another metric that we need to pay more attention especially for imbalanced variable. Assuming we only have 1 employee exit in our dataset and we predict everyone is staying, then we will have a model with accuracy 99% which still cannot be able to help us to find out the employee who would like to exit. So precision recall and f1 score will the metric for our evaluation. And to better evaluate and visualize the result of precision and recell, we use confusion matrix graph with labels of acutal and prediction.*
+![image](https://github.com/Poojamotekar/IBM-HR-Analytics-Employee-Attrition-Performance/assets/66488693/7ea5af15-3002-474a-8971-d0881dd7b4f8)  ![image](https://github.com/Poojamotekar/IBM-HR-Analytics-Employee-Attrition-Performance/assets/66488693/4eeeb2ea-0a3c-4f54-bc03-8af54163a015)
 
+
+
+ ![image](https://github.com/Poojamotekar/IBM-HR-Analytics-Employee-Attrition-Performance/assets/66488693/1571c9ba-5873-4807-a7ac-9425a63e704e) ![image](https://github.com/Poojamotekar/IBM-HR-Analytics-Employee-Attrition-Performance/assets/66488693/8368bc4e-ff75-4707-b03b-d566b0b0f999)
 
 
 
@@ -57,6 +67,7 @@ From this matrix we could be able to see correlations between each feature and b
 
 *This is the most important analysis that gained from random forest and LASSO aka linear model with regularization. The feature importance reveals how important each feature is and how it will affect the performance of the model.*
 
+![image](https://github.com/Poojamotekar/IBM-HR-Analytics-Employee-Attrition-Performance/assets/66488693/4a4d4801-3408-4707-bc6c-6a158c65a903)
 
 
 ## Conclusions
