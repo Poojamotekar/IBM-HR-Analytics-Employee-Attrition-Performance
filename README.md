@@ -22,25 +22,23 @@
 *It is one of the most effective ways to understand the statistical distribution and detect potential outliers in our dataset.*
 
 #### Distribution of Target Variable
-![Attrition Distribution](https://github.com/whwbj/IBM-HR-employee-Attrition-Prediction-Study/blob/main/graphs/attrition.png)
+
 
 As we could see the distribution of our target variable is **imbalanced** for the binary variable yes and no.
 
 #### Distribution of Numerical Features
-![Numerical Distribution](https://github.com/whwbj/IBM-HR-employee-Attrition-Prediction-Study/blob/main/graphs/numerical_dist.png)
+
 
 This is the distribution of our numerical features. We have preprocessed all the numerical features so there are no missing data or duplicate data. 
 From the exproratory, it looks like exit employee's **age** and **working time with his current position** give out some signals of attrition as well as **dailyrate** which refers to paystub.
 
 #### Distribution of Non Numerical Features
-![Non Numerical Distribution](https://github.com/whwbj/IBM-HR-employee-Attrition-Prediction-Study/blob/main/graphs/cate_dist.png)
 
 This is the distribution of non numerical features. Even though all the distribution is imbalanced, we could still tell that too much **over time** work definitely will drive away a loyal employee. **Traveling** and **martial status** will also be considered as factors of the effect.
 
 ## Feature Engineering
 
 #### Correlation Matrix
-![Correlationn Matrix](https://github.com/whwbj/IBM-HR-employee-Attrition-Prediction-Study/blob/main/graphs/corr.png)
 
 From this matrix we could be able to see correlations between each feature and between features and target variable. For correlation score > 0.5, we would consider the two features are correlated.
 
@@ -60,8 +58,7 @@ From this matrix we could be able to see correlations between each feature and b
 
 *This is the most important analysis that gained from random forest and LASSO aka linear model with regularization. The feature importance reveals how important each feature is and how it will affect the performance of the model.*
 
-![rf_fi](https://github.com/whwbj/IBM-HR-employee-Attrition-Prediction-Study/blob/main/graphs/feature_importance.png)
-![LASSO_fi](https://github.com/whwbj/IBM-HR-employee-Attrition-Prediction-Study/blob/main/graphs/L1_feature_importance.png)
+
 
 ## Conclusions
 
