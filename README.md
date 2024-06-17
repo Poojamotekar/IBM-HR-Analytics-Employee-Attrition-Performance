@@ -24,6 +24,7 @@
 #### Distribution of Target Variable
 
 
+
 As we could see the distribution of our target variable is **imbalanced** for the binary variable yes and no.
 
 #### Distribution of Numerical Features
