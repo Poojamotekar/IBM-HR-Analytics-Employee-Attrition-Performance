@@ -22,10 +22,9 @@
 *It is one of the most effective ways to understand the statistical distribution and detect potential outliers in our dataset.*
 
 #### Distribution of Target Variable
-
-
-
-As we could see the distribution of our target variable is **imbalanced** for the binary variable yes and no.
+![image](https://github.com/Poojamotekar/IBM-HR-Analytics-Employee-Attrition-Performance/assets/66488693/f95e6e71-7f89-46f0-b293-296c586aab43)
+ 
+ As we could see the distribution of our target variable is **imbalanced** for the binary variable yes and no.
 
 #### Distribution of Numerical Features
 
