@@ -71,6 +71,9 @@ From this matrix we could be able to see correlations between each feature and b
 
 *It is quite obvious and it is a conclusion that everyone will accept, which is paying more and working less may be the eltimate dream for all employees.
 Overtime, monthlyrate, age, years of works they all are very important feature that will affect the attrition activity and performance of an employee. So it will be quite efficient to apprach to those higher risk employees and better communicate with them, so that their intention of attrition could be resolved. It will be beneficial for both employer and employee. Otherwise, plan ahead of time to hire new candidate will be an alternative option.*
+## Tableau-Dashbord 
+![image](https://github.com/Poojamotekar/IBM-HR-Analytics-Employee-Attrition-Performance/assets/66488693/1e0a42ba-184d-4644-924f-bdaf3bd324fa)
+
 
 ## Future Plans and Works
 
