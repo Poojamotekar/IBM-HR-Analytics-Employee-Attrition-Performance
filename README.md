@@ -1,6 +1,4 @@
-# IBM-HR-employee-Attrition-Prediction-
-![image](https://github.com/Poojamotekar/IBM-HR-Analytics-Employee-Attrition-Performance/assets/66488693/2c27241e-dbb0-4c00-ad66-3a3eecf66c67)
-
+# IBM-HR-employee-Attrition-Prediction
 ![image](https://github.com/Poojamotekar/IBM-HR-Analytics-Employee-Attrition-Performance/assets/66488693/770b5b07-abfc-4ce8-9b85-36497106f2d3)
 
 ## Dataset source
