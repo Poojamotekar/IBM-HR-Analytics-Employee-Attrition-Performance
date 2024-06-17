@@ -1,5 +1,5 @@
 # IBM-HR-employee-Attrition-Prediction
-![image](https://github.com/Poojamotekar/IBM-HR-Analytics-Employee-Attrition-Performance/assets/66488693/1f2ffa7e-1516-4bee-bf07-b5cde3d45147) ![image](https://github.com/Poojamotekar/IBM-HR-Analytics-Employee-Attrition-Performance/assets/66488693/1b5ba5ba-c779-4be5-b763-193b7b9edcf9)
+![image](https://github.com/Poojamotekar/IBM-HR-Analytics-Employee-Attrition-Performance/assets/66488693/1f2ffa7e-1516-4bee-bf07-b5cde3d45147)   ![image](https://github.com/Poojamotekar/IBM-HR-Analytics-Employee-Attrition-Performance/assets/66488693/1b5ba5ba-c779-4be5-b763-193b7b9edcf9) 
 
 - https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset
 
